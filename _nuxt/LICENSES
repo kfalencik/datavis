@@ -4,6 +4,13 @@
  * Released under the MIT License.
  */
 
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <feross@feross.org> <http://feross.org>
+ * @license  MIT
+ */
+
 /**
  * vuex v3.0.1
  * (c) 2017 Evan You
